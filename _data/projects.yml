@@ -1,15 +1,14 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Other than the projects listed in above experiences, there are other projcets I have completed as follows"
 
 - project:
-  title: Velocity
+  title: DRAW AND GUESS
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "A game in PC based on Java, one player draws something according to the rule, others guess what it is. Finished independently."
 - project:
-  title: DevStudio
+  title: DESIGN GEAR REDUCER
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Design single-stage cylindrical gear reducer with CAD tool."
 - project:
   title: Tempo
   link: "#"

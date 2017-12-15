@@ -14,10 +14,14 @@ baseurl: 'mxzheng.github.io' #change it according to your repository name
 name: Mengxin Zheng
 tagline: Materials Sciense
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: '
+My early exposure to programming using Visual Basic back in middle school sparked my interest in computer science (CS), 
+making my decision of majoring in CS to solve practical engineering problems. In the first year, I have mastered 
+JAVA and LINUX language and grasped modeling methods. So I transferred to materials. Materials in my university is
+ TOP5 in China, which is a big appeal to me. Due to the great diversity of majors, I need to learn a lot of specialized courses.
+Time is very compact. However, studying materials classes gave me immense sense of satisfaction and some courses have 
+achieved excellent results.
+You can <a href="#" target="_blank">download this free resume/CV template here</a>.'
 
 #sidebar links
 email: zhengmx95@gmail.com
